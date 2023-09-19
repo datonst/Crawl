@@ -1,0 +1,3 @@
+Chú ý :
+  Xem yêu cầu phiên bản python của playwright,...
+  Cần thay đổi vị trí lưu tệp khi chạy
